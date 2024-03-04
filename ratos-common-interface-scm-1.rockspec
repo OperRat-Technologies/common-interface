@@ -1,11 +1,11 @@
 package = "ratOS-common-interface"
 version = "scm-1"
 source = {
-   url = "git://github.com/OperRat-Technologies/common-interface.git"
+   url = "git+https://github.com/OperRat-Technologies/common-interface",
 }
 description = {
    summary = "Common interface objects to be used in all our interfaces",
-   homepage = "*** please enter a project homepage ***",
+   homepage = "https://github.com/OperRat-Technologies/common-interface",
    license = "MIT"
 }
 dependencies = {}
